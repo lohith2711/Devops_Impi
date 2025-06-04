@@ -1,0 +1,100 @@
+    1  get --version
+    2  git branch 
+    3  git branch it-team
+    4  git branch 
+    5  git branch ht-team
+    6  git branch 
+checking teh status    7  git checkout -b it-team 
+    8  git checkout -b Indiqube
+    9  git branch 
+   10  git switch master 
+   11  git switch it-team 
+   12  git branch 
+   13  git switch master 
+   14  clear
+   47  clear
+   48  ls
+   49  git branch
+   50  git checkout master 
+   51  ls
+   52  clear
+   53  ls
+   54  cat abc
+   55  vi abc
+   56  vi abc2
+   57  vi abc3
+   58  clear
+   59  ls
+   60  git log
+   61  git status
+   62  clear
+   63  git status
+   64  cd ..
+   65  clear
+   66  mkdir VPN
+   67  git branch 
+   68  exit
+   69  git status
+   70  git commit -m "first commit"
+   71  git add .
+   72  git status
+   73  ls
+   74  mkdir lenin
+   75  git add
+   76  git add .
+   77  git status
+   78  git commit -m "sample" 
+   79  git add .
+   80  git status
+   81  git show
+   82  git status
+   83  git show lohith
+   84  cls
+   85  clear
+   86  git show
+   87  git branch
+   88  touch alk.txt
+   89  ls
+   90  history
+   91  clear
+   92  ls
+   93  history > alk.txt
+   94  ls -lar
+   95  clear
+   96  git add .
+   97  git status
+   98  git add abc
+   99  cd git
+  100  ls
+  101  git add abc
+  102  git status 
+  103  git commit abc
+  104  ls
+  105  git status
+  106  clear
+  107  git add file1
+  108  clear
+  109  ls
+  110  git add abc2
+  111  git add abc2
+  112  clear
+  113  git add abc2
+  114  ls -lra
+  115  clear
+  116  git add abc2
+  117  git status
+  118  clear
+  119  git add abc3
+  120  clear
+  121  mkdir conflict
+  122  git add conflict
+  123  git commit -m "to get conflict"
+  124  git pull 
+  125  history > conflict
+  126  cd conflict/
+  127  cd conflict
+  128  ls
+  129  touch newfile
+  130  cd ..
+  131  cd conflict/
+  132  history > newfile
